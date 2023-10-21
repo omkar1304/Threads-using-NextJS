@@ -1,31 +1,40 @@
-# Build and Deploy a Full Stack MERN Next.js 13 Threads App | React, Next JS, TypeScript, MongoDB
-![Threads](https://i.ibb.co/2dSC0TQ/Thumbnail-1.png)
+![Threads](./banner1.png)
+![Threads](./banner2.png)
 
-### [🌟 Become a top 1% Next.js 13 developer in only one course](https://jsmastery.pro/next13)
-### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
+# Threads-using-NextJS
 
-## Next.js 13 eBook & Course
-📚 https://resource.jsmastery.pro/nextjs-guide
+Threads is a comprehensive full-stack web application, leveraging the cutting-edge Next.js technology for server-side rendering with TypeScript, and harnessing the power of React for crafting reusable components. The application boasts a visually stunning layout, meticulously designed with Tailwind CSS. User authentication is seamlessly managed through Clerk, enabling login via popular social accounts and empowering users to create their own organizations. The application relies on the strength of Shadcn components and the robust validation capabilities of Zod. Handling file uploads is made effortless with UploadThing, while real-time event management is achieved through webhooks. The backend infrastructure is robustly supported by MongoDB. Threads combines the latest in web development technologies to deliver a top-tier user experience and functionality.
 
-## Summary
-Develop Threads, Next.js 13 app that skyrocketed to 100 million sign-ups in less than 5 days, and dethroned giants like Twitter, ChatGPT, and TikTok to become the fastest-growing app ever!
 
-In this video, you'll:
-- Master Next.js 13.4 with Server Side Rendering
-- Learn MongoDB handling of complex schemas, multiple data population
-- Create beautiful layouts with TailwindCSS
-- Use Clerk for authentication
+## Live Project Link
+
+The project is hosted on Vercel and can be accessed using the following link - https://threads-connect.vercel.app
+
+## Features
+
+- Next.js 13.4 with Server Side Rendering
+- MongoDB handling of complex schemas, multiple data population
+- Beautiful layouts with TailwindCSS
+- Clerk for authentication and create organizations
 - Handle file uploads with UploadThing
-- Explore Shadcn components
+- Shadcn components
 - Listen to real-time events with webhooks
-- Understand middleware, API actions, and authorization
-- Explore & integrate new Next.js layout route groups
 - Validate data with Zod
 - Manage forms with react hook form
-- Create reusable components
-- Build a solid application architecture
-- Deploy the application and more!
 
-## Want to land your dream programming job in 3 - 6 months?
-⭐ JSM Masterclass Experience - https://jsmastery.pro/masterclass
-Become a Software Engineer. Guaranteed.
+
+## Technologies Used
+
+The following technologies were used in the development of this project:
+
+- NextJS - React framework that enables several extra features, including server-side rendering and generating static websites
+- ReactJS - A JavaScript library for building user interfaces
+- MongoDB - Open source NoSQL database to handle coomplex schemas, multiple data population
+- Clerk - To handle authentication and create organizations
+- Shadcn UI - Focuses on accessibility and includes components such as buttons, menus, dialogs, tooltips, and more
+- UploadThing - It is a file-uploading service designed for Next.js developers
+- Tailwind CSS - Open source CSS framework
+
+## Conclusion
+
+Threads is a cutting-edge full-stack web app built on Next.js and React, with a stunning Tailwind CSS layout. It features seamless user authentication via Clerk, dynamic validation with Shadcn and Zod, and supports real-time events with webhooks. With MongoDB as the backend, Threads is a powerful and elegant solution for modern web development.
